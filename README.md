@@ -1,4 +1,4 @@
-# GifApp
+# Angular - GifApp
 
 1. Application Modularization
 2. Structure of medium to large scale applications
